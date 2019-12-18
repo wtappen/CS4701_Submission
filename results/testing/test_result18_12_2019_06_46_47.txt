@@ -1,0 +1,40 @@
+18/12/2019 06:46:53 |	Test accuracy for Brynn_Szczesniak: 0.9822485207100592
+18/12/2019 06:46:53 |	Precision for Brynn_Szczesniak: 0.9886363636363636
+18/12/2019 06:46:53 |	Recall for Brynn_Szczesniak: 0.8365384615384616
+18/12/2019 06:46:53 |	F1 score for Brynn_Szczesniak: 0.90625
+18/12/2019 06:46:53 |	
+18/12/2019 06:46:55 |	Test accuracy for Megan_Backus: 1.0
+18/12/2019 06:46:55 |	Precision for Megan_Backus: 1.0
+18/12/2019 06:46:55 |	Recall for Megan_Backus: 1.0
+18/12/2019 06:46:55 |	F1 score for Megan_Backus: 1.0
+18/12/2019 06:46:55 |	
+18/12/2019 06:46:57 |	Test accuracy for Nhat: 0.991370808678501
+18/12/2019 06:46:57 |	Precision for Nhat: 1.0
+18/12/2019 06:46:57 |	Recall for Nhat: 0.91725768321513
+18/12/2019 06:46:57 |	F1 score for Nhat: 0.9568434032059187
+18/12/2019 06:46:57 |	
+18/12/2019 06:46:59 |	Test accuracy for Will_Tappen: 0.9294871794871795
+18/12/2019 06:46:59 |	Precision for Will_Tappen: 0.5916398713826366
+18/12/2019 06:46:59 |	Recall for Will_Tappen: 0.5364431486880467
+18/12/2019 06:46:59 |	F1 score for Will_Tappen: 0.5626911314984709
+18/12/2019 06:46:59 |	
+18/12/2019 06:47:05 |	Test accuracy for Brynn_Szczesniak: 0.9822485207100592
+18/12/2019 06:47:05 |	Precision for Brynn_Szczesniak: 0.9886363636363636
+18/12/2019 06:47:05 |	Recall for Brynn_Szczesniak: 0.8365384615384616
+18/12/2019 06:47:05 |	F1 score for Brynn_Szczesniak: 0.90625
+18/12/2019 06:47:05 |	
+18/12/2019 06:47:07 |	Test accuracy for Megan_Backus: 1.0
+18/12/2019 06:47:07 |	Precision for Megan_Backus: 1.0
+18/12/2019 06:47:07 |	Recall for Megan_Backus: 1.0
+18/12/2019 06:47:07 |	F1 score for Megan_Backus: 1.0
+18/12/2019 06:47:07 |	
+18/12/2019 06:47:09 |	Test accuracy for Nhat: 0.991370808678501
+18/12/2019 06:47:09 |	Precision for Nhat: 1.0
+18/12/2019 06:47:09 |	Recall for Nhat: 0.91725768321513
+18/12/2019 06:47:09 |	F1 score for Nhat: 0.9568434032059187
+18/12/2019 06:47:09 |	
+18/12/2019 06:47:11 |	Test accuracy for Will_Tappen: 0.9294871794871795
+18/12/2019 06:47:11 |	Precision for Will_Tappen: 0.5916398713826366
+18/12/2019 06:47:11 |	Recall for Will_Tappen: 0.5364431486880467
+18/12/2019 06:47:11 |	F1 score for Will_Tappen: 0.5626911314984709
+18/12/2019 06:47:11 |	

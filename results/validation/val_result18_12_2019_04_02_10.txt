@@ -1,0 +1,640 @@
+18/12/2019 04:02:15 |	Validation accuracy for Brynn_Szczesniak: 0.9087940792337832
+18/12/2019 04:02:15 |	Precision for Brynn_Szczesniak: 1.0
+18/12/2019 04:02:15 |	Recall for Brynn_Szczesniak: 0.027842227378190254
+18/12/2019 04:02:15 |	F1 score for Brynn_Szczesniak: 0.05417607223476298
+18/12/2019 04:02:15 |	
+18/12/2019 04:02:16 |	Validation accuracy for Megan_Backus: 0.9910753156290815
+18/12/2019 04:02:16 |	Precision for Megan_Backus: 1.0
+18/12/2019 04:02:16 |	Recall for Megan_Backus: 0.9219047619047619
+18/12/2019 04:02:16 |	F1 score for Megan_Backus: 0.9593657086223983
+18/12/2019 04:02:16 |	
+18/12/2019 04:02:18 |	Validation accuracy for Nhat: 0.998911623857205
+18/12/2019 04:02:18 |	Precision for Nhat: 1.0
+18/12/2019 04:02:18 |	Recall for Nhat: 0.9887133182844243
+18/12/2019 04:02:18 |	F1 score for Nhat: 0.9943246311010215
+18/12/2019 04:02:18 |	
+18/12/2019 04:02:20 |	Validation accuracy for Will_Tappen: 0.9453635176316935
+18/12/2019 04:02:20 |	Precision for Will_Tappen: 0.43942992874109266
+18/12/2019 04:02:20 |	Recall for Will_Tappen: 0.925
+18/12/2019 04:02:20 |	F1 score for Will_Tappen: 0.5958132045088567
+18/12/2019 04:02:20 |	
+18/12/2019 04:02:25 |	Validation accuracy for Brynn_Szczesniak: 0.9044405746626034
+18/12/2019 04:02:25 |	Precision for Brynn_Szczesniak: 0.4230769230769231
+18/12/2019 04:02:25 |	Recall for Brynn_Szczesniak: 0.05104408352668213
+18/12/2019 04:02:25 |	F1 score for Brynn_Szczesniak: 0.09109730848861283
+18/12/2019 04:02:25 |	
+18/12/2019 04:02:26 |	Validation accuracy for Megan_Backus: 0.9871571615150196
+18/12/2019 04:02:26 |	Precision for Megan_Backus: 1.0
+18/12/2019 04:02:26 |	Recall for Megan_Backus: 0.8876190476190476
+18/12/2019 04:02:26 |	F1 score for Megan_Backus: 0.9404641775983854
+18/12/2019 04:02:26 |	
+18/12/2019 04:02:28 |	Validation accuracy for Nhat: 0.998911623857205
+18/12/2019 04:02:28 |	Precision for Nhat: 1.0
+18/12/2019 04:02:28 |	Recall for Nhat: 0.9887133182844243
+18/12/2019 04:02:28 |	F1 score for Nhat: 0.9943246311010215
+18/12/2019 04:02:28 |	
+18/12/2019 04:02:29 |	Validation accuracy for Will_Tappen: 0.9555942533739661
+18/12/2019 04:02:29 |	Precision for Will_Tappen: 0.4942857142857143
+18/12/2019 04:02:29 |	Recall for Will_Tappen: 0.865
+18/12/2019 04:02:29 |	F1 score for Will_Tappen: 0.6290909090909091
+18/12/2019 04:02:29 |	
+18/12/2019 04:02:35 |	Validation accuracy for Brynn_Szczesniak: 0.8979103178058337
+18/12/2019 04:02:35 |	Precision for Brynn_Szczesniak: 0.3442622950819672
+18/12/2019 04:02:35 |	Recall for Brynn_Szczesniak: 0.09744779582366589
+18/12/2019 04:02:35 |	F1 score for Brynn_Szczesniak: 0.1518987341772152
+18/12/2019 04:02:35 |	
+18/12/2019 04:02:37 |	Validation accuracy for Megan_Backus: 0.9862864606007836
+18/12/2019 04:02:37 |	Precision for Megan_Backus: 1.0
+18/12/2019 04:02:37 |	Recall for Megan_Backus: 0.88
+18/12/2019 04:02:37 |	F1 score for Megan_Backus: 0.9361702127659575
+18/12/2019 04:02:37 |	
+18/12/2019 04:02:39 |	Validation accuracy for Nhat: 0.9939050936003483
+18/12/2019 04:02:39 |	Precision for Nhat: 0.9520697167755992
+18/12/2019 04:02:39 |	Recall for Nhat: 0.9864559819413092
+18/12/2019 04:02:39 |	F1 score for Nhat: 0.9689578713968957
+18/12/2019 04:02:39 |	
+18/12/2019 04:02:41 |	Validation accuracy for Will_Tappen: 0.9597300827165869
+18/12/2019 04:02:41 |	Precision for Will_Tappen: 0.5238095238095238
+18/12/2019 04:02:41 |	Recall for Will_Tappen: 0.825
+18/12/2019 04:02:41 |	F1 score for Will_Tappen: 0.6407766990291262
+18/12/2019 04:02:41 |	
+18/12/2019 04:02:47 |	Validation accuracy for Brynn_Szczesniak: 0.8952982150631258
+18/12/2019 04:02:47 |	Precision for Brynn_Szczesniak: 0.3310810810810811
+18/12/2019 04:02:47 |	Recall for Brynn_Szczesniak: 0.1136890951276102
+18/12/2019 04:02:47 |	F1 score for Brynn_Szczesniak: 0.1692573402417962
+18/12/2019 04:02:47 |	
+18/12/2019 04:02:49 |	Validation accuracy for Megan_Backus: 0.9862864606007836
+18/12/2019 04:02:49 |	Precision for Megan_Backus: 1.0
+18/12/2019 04:02:49 |	Recall for Megan_Backus: 0.88
+18/12/2019 04:02:49 |	F1 score for Megan_Backus: 0.9361702127659575
+18/12/2019 04:02:49 |	
+18/12/2019 04:02:51 |	Validation accuracy for Nhat: 0.9727905964301262
+18/12/2019 04:02:51 |	Precision for Nhat: 0.7944444444444444
+18/12/2019 04:02:51 |	Recall for Nhat: 0.9683972911963883
+18/12/2019 04:02:51 |	F1 score for Nhat: 0.8728382502543236
+18/12/2019 04:02:51 |	
+18/12/2019 04:02:53 |	Validation accuracy for Will_Tappen: 0.9547235524597301
+18/12/2019 04:02:53 |	Precision for Will_Tappen: 0.48857142857142855
+18/12/2019 04:02:53 |	Recall for Will_Tappen: 0.855
+18/12/2019 04:02:53 |	F1 score for Will_Tappen: 0.6218181818181818
+18/12/2019 04:02:53 |	
+18/12/2019 04:03:00 |	Validation accuracy for Brynn_Szczesniak: 0.9969348659003832
+18/12/2019 04:03:00 |	Precision for Brynn_Szczesniak: 1.0
+18/12/2019 04:03:00 |	Recall for Brynn_Szczesniak: 0.9683168316831683
+18/12/2019 04:03:00 |	F1 score for Brynn_Szczesniak: 0.9839034205231388
+18/12/2019 04:03:00 |	
+18/12/2019 04:03:02 |	Validation accuracy for Megan_Backus: 1.0
+18/12/2019 04:03:02 |	Precision for Megan_Backus: 1.0
+18/12/2019 04:03:02 |	Recall for Megan_Backus: 1.0
+18/12/2019 04:03:02 |	F1 score for Megan_Backus: 1.0
+18/12/2019 04:03:02 |	
+18/12/2019 04:03:05 |	Validation accuracy for Nhat: 0.9990421455938697
+18/12/2019 04:03:05 |	Precision for Nhat: 1.0
+18/12/2019 04:03:05 |	Recall for Nhat: 0.9887133182844243
+18/12/2019 04:03:05 |	F1 score for Nhat: 0.9943246311010215
+18/12/2019 04:03:05 |	
+18/12/2019 04:03:07 |	Validation accuracy for Will_Tappen: 0.9773946360153257
+18/12/2019 04:03:07 |	Precision for Will_Tappen: 0.8333333333333334
+18/12/2019 04:03:07 |	Recall for Will_Tappen: 0.7482993197278912
+18/12/2019 04:03:07 |	F1 score for Will_Tappen: 0.7885304659498209
+18/12/2019 04:03:07 |	
+18/12/2019 04:03:13 |	Validation accuracy for Brynn_Szczesniak: 0.9919540229885058
+18/12/2019 04:03:13 |	Precision for Brynn_Szczesniak: 0.9548133595284872
+18/12/2019 04:03:13 |	Recall for Brynn_Szczesniak: 0.9623762376237623
+18/12/2019 04:03:13 |	F1 score for Brynn_Szczesniak: 0.9585798816568047
+18/12/2019 04:03:13 |	
+18/12/2019 04:03:15 |	Validation accuracy for Megan_Backus: 1.0
+18/12/2019 04:03:15 |	Precision for Megan_Backus: 1.0
+18/12/2019 04:03:15 |	Recall for Megan_Backus: 1.0
+18/12/2019 04:03:15 |	F1 score for Megan_Backus: 1.0
+18/12/2019 04:03:15 |	
+18/12/2019 04:03:18 |	Validation accuracy for Nhat: 0.9990421455938697
+18/12/2019 04:03:18 |	Precision for Nhat: 1.0
+18/12/2019 04:03:18 |	Recall for Nhat: 0.9887133182844243
+18/12/2019 04:03:18 |	F1 score for Nhat: 0.9943246311010215
+18/12/2019 04:03:18 |	
+18/12/2019 04:03:19 |	Validation accuracy for Will_Tappen: 0.9708812260536398
+18/12/2019 04:03:19 |	Precision for Will_Tappen: 0.8622448979591837
+18/12/2019 04:03:19 |	Recall for Will_Tappen: 0.5748299319727891
+18/12/2019 04:03:19 |	F1 score for Will_Tappen: 0.6897959183673469
+18/12/2019 04:03:19 |	
+18/12/2019 04:03:26 |	Validation accuracy for Brynn_Szczesniak: 0.9837164750957854
+18/12/2019 04:03:26 |	Precision for Brynn_Szczesniak: 0.8860294117647058
+18/12/2019 04:03:26 |	Recall for Brynn_Szczesniak: 0.9544554455445544
+18/12/2019 04:03:26 |	F1 score for Brynn_Szczesniak: 0.9189704480457578
+18/12/2019 04:03:26 |	
+18/12/2019 04:03:28 |	Validation accuracy for Megan_Backus: 1.0
+18/12/2019 04:03:28 |	Precision for Megan_Backus: 1.0
+18/12/2019 04:03:28 |	Recall for Megan_Backus: 1.0
+18/12/2019 04:03:28 |	F1 score for Megan_Backus: 1.0
+18/12/2019 04:03:28 |	
+18/12/2019 04:03:30 |	Validation accuracy for Nhat: 0.9925287356321839
+18/12/2019 04:03:30 |	Precision for Nhat: 0.9297872340425531
+18/12/2019 04:03:30 |	Recall for Nhat: 0.9864559819413092
+18/12/2019 04:03:30 |	F1 score for Nhat: 0.9572836801752463
+18/12/2019 04:03:30 |	
+18/12/2019 04:03:32 |	Validation accuracy for Will_Tappen: 0.9653256704980843
+18/12/2019 04:03:32 |	Precision for Will_Tappen: 0.8509316770186336
+18/12/2019 04:03:32 |	Recall for Will_Tappen: 0.46598639455782315
+18/12/2019 04:03:32 |	F1 score for Will_Tappen: 0.6021978021978023
+18/12/2019 04:03:32 |	
+18/12/2019 04:03:38 |	Validation accuracy for Brynn_Szczesniak: 0.9806513409961686
+18/12/2019 04:03:38 |	Precision for Brynn_Szczesniak: 0.8713235294117647
+18/12/2019 04:03:38 |	Recall for Brynn_Szczesniak: 0.9386138613861386
+18/12/2019 04:03:38 |	F1 score for Brynn_Szczesniak: 0.90371782650143
+18/12/2019 04:03:38 |	
+18/12/2019 04:03:40 |	Validation accuracy for Megan_Backus: 1.0
+18/12/2019 04:03:40 |	Precision for Megan_Backus: 1.0
+18/12/2019 04:03:40 |	Recall for Megan_Backus: 1.0
+18/12/2019 04:03:40 |	F1 score for Megan_Backus: 1.0
+18/12/2019 04:03:40 |	
+18/12/2019 04:03:42 |	Validation accuracy for Nhat: 0.9756704980842912
+18/12/2019 04:03:42 |	Precision for Nhat: 0.7915129151291513
+18/12/2019 04:03:42 |	Recall for Nhat: 0.9683972911963883
+18/12/2019 04:03:42 |	F1 score for Nhat: 0.8710659898477157
+18/12/2019 04:03:42 |	
+18/12/2019 04:03:44 |	Validation accuracy for Will_Tappen: 0.9599616858237547
+18/12/2019 04:03:44 |	Precision for Will_Tappen: 0.7202072538860104
+18/12/2019 04:03:44 |	Recall for Will_Tappen: 0.47278911564625853
+18/12/2019 04:03:44 |	F1 score for Will_Tappen: 0.5708418891170431
+18/12/2019 04:03:44 |	
+18/12/2019 04:03:47 |	Validation accuracy for Brynn_Szczesniak: 0.8770134958641707
+18/12/2019 04:03:47 |	Precision for Brynn_Szczesniak: 0.3159340659340659
+18/12/2019 04:03:47 |	Recall for Brynn_Szczesniak: 0.2668213457076566
+18/12/2019 04:03:47 |	F1 score for Brynn_Szczesniak: 0.2893081761006289
+18/12/2019 04:03:47 |	
+18/12/2019 04:03:48 |	Validation accuracy for Megan_Backus: 0.9251197213757074
+18/12/2019 04:03:48 |	Precision for Megan_Backus: 0.6041426927502876
+18/12/2019 04:03:48 |	Recall for Megan_Backus: 1.0
+18/12/2019 04:03:48 |	F1 score for Megan_Backus: 0.7532281205164992
+18/12/2019 04:03:48 |	
+18/12/2019 04:03:50 |	Validation accuracy for Nhat: 0.9220722681758816
+18/12/2019 04:03:50 |	Precision for Nhat: 0.5537294563843237
+18/12/2019 04:03:50 |	Recall for Nhat: 0.9887133182844243
+18/12/2019 04:03:50 |	F1 score for Nhat: 0.7098865478119935
+18/12/2019 04:03:50 |	
+18/12/2019 04:03:51 |	Validation accuracy for Will_Tappen: 0.9201131911188507
+18/12/2019 04:03:51 |	Precision for Will_Tappen: 0.35168738898756663
+18/12/2019 04:03:51 |	Recall for Will_Tappen: 0.99
+18/12/2019 04:03:51 |	F1 score for Will_Tappen: 0.5190039318479686
+18/12/2019 04:03:51 |	
+18/12/2019 04:03:56 |	Validation accuracy for Brynn_Szczesniak: 0.8613408794079234
+18/12/2019 04:03:56 |	Precision for Brynn_Szczesniak: 0.297244094488189
+18/12/2019 04:03:56 |	Recall for Brynn_Szczesniak: 0.3503480278422274
+18/12/2019 04:03:56 |	F1 score for Brynn_Szczesniak: 0.321618743343983
+18/12/2019 04:03:56 |	
+18/12/2019 04:03:57 |	Validation accuracy for Megan_Backus: 0.9240313452329125
+18/12/2019 04:03:57 |	Precision for Megan_Backus: 0.6009174311926605
+18/12/2019 04:03:57 |	Recall for Megan_Backus: 0.9980952380952381
+18/12/2019 04:03:57 |	F1 score for Megan_Backus: 0.7501789549033644
+18/12/2019 04:03:57 |	
+18/12/2019 04:03:58 |	Validation accuracy for Nhat: 0.9732259468872443
+18/12/2019 04:03:58 |	Precision for Nhat: 0.7877697841726619
+18/12/2019 04:03:58 |	Recall for Nhat: 0.9887133182844243
+18/12/2019 04:03:58 |	F1 score for Nhat: 0.8768768768768769
+18/12/2019 04:03:58 |	
+18/12/2019 04:03:59 |	Validation accuracy for Will_Tappen: 0.9377448846321289
+18/12/2019 04:03:59 |	Precision for Will_Tappen: 0.4081196581196581
+18/12/2019 04:03:59 |	Recall for Will_Tappen: 0.955
+18/12/2019 04:03:59 |	F1 score for Will_Tappen: 0.5718562874251497
+18/12/2019 04:03:59 |	
+18/12/2019 04:04:03 |	Validation accuracy for Brynn_Szczesniak: 0.8665650848933392
+18/12/2019 04:04:03 |	Precision for Brynn_Szczesniak: 0.3194444444444444
+18/12/2019 04:04:03 |	Recall for Brynn_Szczesniak: 0.37354988399071926
+18/12/2019 04:04:03 |	F1 score for Brynn_Szczesniak: 0.34438502673796795
+18/12/2019 04:04:03 |	
+18/12/2019 04:04:04 |	Validation accuracy for Megan_Backus: 0.9179364388332608
+18/12/2019 04:04:04 |	Precision for Megan_Backus: 0.582039911308204
+18/12/2019 04:04:04 |	Recall for Megan_Backus: 1.0
+18/12/2019 04:04:04 |	F1 score for Megan_Backus: 0.7358093903293623
+18/12/2019 04:04:04 |	
+18/12/2019 04:04:05 |	Validation accuracy for Nhat: 0.9597300827165869
+18/12/2019 04:04:05 |	Precision for Nhat: 0.7067307692307693
+18/12/2019 04:04:05 |	Recall for Nhat: 0.9954853273137697
+18/12/2019 04:04:05 |	F1 score for Nhat: 0.8266166822867854
+18/12/2019 04:04:05 |	
+18/12/2019 04:04:06 |	Validation accuracy for Will_Tappen: 0.9440574662603396
+18/12/2019 04:04:06 |	Precision for Will_Tappen: 0.4323040380047506
+18/12/2019 04:04:06 |	Recall for Will_Tappen: 0.91
+18/12/2019 04:04:06 |	F1 score for Will_Tappen: 0.5861513687600644
+18/12/2019 04:04:06 |	
+18/12/2019 04:04:09 |	Validation accuracy for Brynn_Szczesniak: 0.8746190683500218
+18/12/2019 04:04:09 |	Precision for Brynn_Szczesniak: 0.34475374732334046
+18/12/2019 04:04:09 |	Recall for Brynn_Szczesniak: 0.37354988399071926
+18/12/2019 04:04:09 |	F1 score for Brynn_Szczesniak: 0.3585746102449888
+18/12/2019 04:04:09 |	
+18/12/2019 04:04:10 |	Validation accuracy for Megan_Backus: 0.9179364388332608
+18/12/2019 04:04:10 |	Precision for Megan_Backus: 0.582039911308204
+18/12/2019 04:04:10 |	Recall for Megan_Backus: 1.0
+18/12/2019 04:04:10 |	F1 score for Megan_Backus: 0.7358093903293623
+18/12/2019 04:04:10 |	
+18/12/2019 04:04:12 |	Validation accuracy for Nhat: 0.957771005659556
+18/12/2019 04:04:12 |	Precision for Nhat: 0.6973058637083994
+18/12/2019 04:04:12 |	Recall for Nhat: 0.9932279909706546
+18/12/2019 04:04:12 |	F1 score for Nhat: 0.819366852886406
+18/12/2019 04:04:12 |	
+18/12/2019 04:04:13 |	Validation accuracy for Will_Tappen: 0.933391380060949
+18/12/2019 04:04:13 |	Precision for Will_Tappen: 0.38009049773755654
+18/12/2019 04:04:13 |	Recall for Will_Tappen: 0.84
+18/12/2019 04:04:13 |	F1 score for Will_Tappen: 0.5233644859813085
+18/12/2019 04:04:13 |	
+18/12/2019 04:04:17 |	Validation accuracy for Brynn_Szczesniak: 0.9693486590038314
+18/12/2019 04:04:17 |	Precision for Brynn_Szczesniak: 0.7674418604651163
+18/12/2019 04:04:17 |	Recall for Brynn_Szczesniak: 0.9801980198019802
+18/12/2019 04:04:17 |	F1 score for Brynn_Szczesniak: 0.8608695652173912
+18/12/2019 04:04:17 |	
+18/12/2019 04:04:18 |	Validation accuracy for Megan_Backus: 0.9340996168582375
+18/12/2019 04:04:18 |	Precision for Megan_Backus: 0.5894988066825776
+18/12/2019 04:04:18 |	Recall for Megan_Backus: 1.0
+18/12/2019 04:04:18 |	F1 score for Megan_Backus: 0.7417417417417418
+18/12/2019 04:04:18 |	
+18/12/2019 04:04:19 |	Validation accuracy for Nhat: 0.9044061302681993
+18/12/2019 04:04:19 |	Precision for Nhat: 0.4699570815450644
+18/12/2019 04:04:19 |	Recall for Nhat: 0.9887133182844243
+18/12/2019 04:04:19 |	F1 score for Nhat: 0.637090909090909
+18/12/2019 04:04:19 |	
+18/12/2019 04:04:21 |	Validation accuracy for Will_Tappen: 0.9789272030651341
+18/12/2019 04:04:21 |	Precision for Will_Tappen: 0.772189349112426
+18/12/2019 04:04:21 |	Recall for Will_Tappen: 0.8877551020408163
+18/12/2019 04:04:21 |	F1 score for Will_Tappen: 0.8259493670886077
+18/12/2019 04:04:21 |	
+18/12/2019 04:04:24 |	Validation accuracy for Brynn_Szczesniak: 0.9524904214559387
+18/12/2019 04:04:24 |	Precision for Brynn_Szczesniak: 0.6792189679218968
+18/12/2019 04:04:24 |	Recall for Brynn_Szczesniak: 0.9643564356435643
+18/12/2019 04:04:24 |	F1 score for Brynn_Szczesniak: 0.7970540098199672
+18/12/2019 04:04:24 |	
+18/12/2019 04:04:26 |	Validation accuracy for Megan_Backus: 0.9333333333333333
+18/12/2019 04:04:26 |	Precision for Megan_Backus: 0.5866983372921615
+18/12/2019 04:04:26 |	Recall for Megan_Backus: 1.0
+18/12/2019 04:04:26 |	F1 score for Megan_Backus: 0.7395209580838323
+18/12/2019 04:04:26 |	
+18/12/2019 04:04:27 |	Validation accuracy for Nhat: 0.8915708812260537
+18/12/2019 04:04:27 |	Precision for Nhat: 0.43843843843843844
+18/12/2019 04:04:27 |	Recall for Nhat: 0.9887133182844243
+18/12/2019 04:04:27 |	F1 score for Nhat: 0.6074895977808599
+18/12/2019 04:04:27 |	
+18/12/2019 04:04:28 |	Validation accuracy for Will_Tappen: 0.9762452107279693
+18/12/2019 04:04:28 |	Precision for Will_Tappen: 0.8035714285714286
+18/12/2019 04:04:28 |	Recall for Will_Tappen: 0.7653061224489796
+18/12/2019 04:04:28 |	F1 score for Will_Tappen: 0.7839721254355401
+18/12/2019 04:04:28 |	
+18/12/2019 04:04:32 |	Validation accuracy for Brynn_Szczesniak: 0.9501915708812261
+18/12/2019 04:04:32 |	Precision for Brynn_Szczesniak: 0.6767676767676768
+18/12/2019 04:04:32 |	Recall for Brynn_Szczesniak: 0.9287128712871288
+18/12/2019 04:04:32 |	F1 score for Brynn_Szczesniak: 0.7829716193656093
+18/12/2019 04:04:32 |	
+18/12/2019 04:04:33 |	Validation accuracy for Megan_Backus: 0.9277777777777778
+18/12/2019 04:04:33 |	Precision for Megan_Backus: 0.5671641791044776
+18/12/2019 04:04:33 |	Recall for Megan_Backus: 1.0
+18/12/2019 04:04:33 |	F1 score for Megan_Backus: 0.7238095238095238
+18/12/2019 04:04:33 |	
+18/12/2019 04:04:34 |	Validation accuracy for Nhat: 0.9298850574712644
+18/12/2019 04:04:34 |	Precision for Nhat: 0.5478260869565217
+18/12/2019 04:04:34 |	Recall for Nhat: 0.9954853273137697
+18/12/2019 04:04:34 |	F1 score for Nhat: 0.706730769230769
+18/12/2019 04:04:34 |	
+18/12/2019 04:04:36 |	Validation accuracy for Will_Tappen: 0.9745210727969349
+18/12/2019 04:04:36 |	Precision for Will_Tappen: 0.8259109311740891
+18/12/2019 04:04:36 |	Recall for Will_Tappen: 0.6938775510204082
+18/12/2019 04:04:36 |	F1 score for Will_Tappen: 0.7541589648798521
+18/12/2019 04:04:36 |	
+18/12/2019 04:04:40 |	Validation accuracy for Brynn_Szczesniak: 0.9452107279693487
+18/12/2019 04:04:40 |	Precision for Brynn_Szczesniak: 0.6656580937972768
+18/12/2019 04:04:40 |	Recall for Brynn_Szczesniak: 0.8712871287128713
+18/12/2019 04:04:40 |	F1 score for Brynn_Szczesniak: 0.7547169811320754
+18/12/2019 04:04:40 |	
+18/12/2019 04:04:41 |	Validation accuracy for Megan_Backus: 0.9277777777777778
+18/12/2019 04:04:41 |	Precision for Megan_Backus: 0.5671641791044776
+18/12/2019 04:04:41 |	Recall for Megan_Backus: 1.0
+18/12/2019 04:04:41 |	F1 score for Megan_Backus: 0.7238095238095238
+18/12/2019 04:04:41 |	
+18/12/2019 04:04:42 |	Validation accuracy for Nhat: 0.95727969348659
+18/12/2019 04:04:42 |	Precision for Nhat: 0.6666666666666666
+18/12/2019 04:04:42 |	Recall for Nhat: 0.9932279909706546
+18/12/2019 04:04:42 |	F1 score for Nhat: 0.7978241160471441
+18/12/2019 04:04:42 |	
+18/12/2019 04:04:43 |	Validation accuracy for Will_Tappen: 0.9710727969348659
+18/12/2019 04:04:43 |	Precision for Will_Tappen: 0.7677902621722846
+18/12/2019 04:04:43 |	Recall for Will_Tappen: 0.6972789115646258
+18/12/2019 04:04:43 |	F1 score for Will_Tappen: 0.7308377896613191
+18/12/2019 04:04:43 |	
+18/12/2019 04:04:48 |	Validation accuracy for Brynn_Szczesniak: 0.9087940792337832
+18/12/2019 04:04:48 |	Precision for Brynn_Szczesniak: 1.0
+18/12/2019 04:04:48 |	Recall for Brynn_Szczesniak: 0.027842227378190254
+18/12/2019 04:04:48 |	F1 score for Brynn_Szczesniak: 0.05417607223476298
+18/12/2019 04:04:48 |	
+18/12/2019 04:04:50 |	Validation accuracy for Megan_Backus: 0.9910753156290815
+18/12/2019 04:04:50 |	Precision for Megan_Backus: 1.0
+18/12/2019 04:04:50 |	Recall for Megan_Backus: 0.9219047619047619
+18/12/2019 04:04:50 |	F1 score for Megan_Backus: 0.9593657086223983
+18/12/2019 04:04:50 |	
+18/12/2019 04:04:51 |	Validation accuracy for Nhat: 0.998911623857205
+18/12/2019 04:04:51 |	Precision for Nhat: 1.0
+18/12/2019 04:04:51 |	Recall for Nhat: 0.9887133182844243
+18/12/2019 04:04:51 |	F1 score for Nhat: 0.9943246311010215
+18/12/2019 04:04:51 |	
+18/12/2019 04:04:53 |	Validation accuracy for Will_Tappen: 0.9453635176316935
+18/12/2019 04:04:53 |	Precision for Will_Tappen: 0.43942992874109266
+18/12/2019 04:04:53 |	Recall for Will_Tappen: 0.925
+18/12/2019 04:04:53 |	F1 score for Will_Tappen: 0.5958132045088567
+18/12/2019 04:04:53 |	
+18/12/2019 04:04:58 |	Validation accuracy for Brynn_Szczesniak: 0.9044405746626034
+18/12/2019 04:04:58 |	Precision for Brynn_Szczesniak: 0.4230769230769231
+18/12/2019 04:04:58 |	Recall for Brynn_Szczesniak: 0.05104408352668213
+18/12/2019 04:04:58 |	F1 score for Brynn_Szczesniak: 0.09109730848861283
+18/12/2019 04:04:58 |	
+18/12/2019 04:05:00 |	Validation accuracy for Megan_Backus: 0.9871571615150196
+18/12/2019 04:05:00 |	Precision for Megan_Backus: 1.0
+18/12/2019 04:05:00 |	Recall for Megan_Backus: 0.8876190476190476
+18/12/2019 04:05:00 |	F1 score for Megan_Backus: 0.9404641775983854
+18/12/2019 04:05:00 |	
+18/12/2019 04:05:02 |	Validation accuracy for Nhat: 0.998911623857205
+18/12/2019 04:05:02 |	Precision for Nhat: 1.0
+18/12/2019 04:05:02 |	Recall for Nhat: 0.9887133182844243
+18/12/2019 04:05:02 |	F1 score for Nhat: 0.9943246311010215
+18/12/2019 04:05:02 |	
+18/12/2019 04:05:03 |	Validation accuracy for Will_Tappen: 0.9555942533739661
+18/12/2019 04:05:03 |	Precision for Will_Tappen: 0.4942857142857143
+18/12/2019 04:05:03 |	Recall for Will_Tappen: 0.865
+18/12/2019 04:05:03 |	F1 score for Will_Tappen: 0.6290909090909091
+18/12/2019 04:05:03 |	
+18/12/2019 04:05:08 |	Validation accuracy for Brynn_Szczesniak: 0.8979103178058337
+18/12/2019 04:05:08 |	Precision for Brynn_Szczesniak: 0.3442622950819672
+18/12/2019 04:05:08 |	Recall for Brynn_Szczesniak: 0.09744779582366589
+18/12/2019 04:05:08 |	F1 score for Brynn_Szczesniak: 0.1518987341772152
+18/12/2019 04:05:08 |	
+18/12/2019 04:05:09 |	Validation accuracy for Megan_Backus: 0.9862864606007836
+18/12/2019 04:05:09 |	Precision for Megan_Backus: 1.0
+18/12/2019 04:05:09 |	Recall for Megan_Backus: 0.88
+18/12/2019 04:05:09 |	F1 score for Megan_Backus: 0.9361702127659575
+18/12/2019 04:05:09 |	
+18/12/2019 04:05:11 |	Validation accuracy for Nhat: 0.9939050936003483
+18/12/2019 04:05:11 |	Precision for Nhat: 0.9520697167755992
+18/12/2019 04:05:11 |	Recall for Nhat: 0.9864559819413092
+18/12/2019 04:05:11 |	F1 score for Nhat: 0.9689578713968957
+18/12/2019 04:05:11 |	
+18/12/2019 04:05:13 |	Validation accuracy for Will_Tappen: 0.9597300827165869
+18/12/2019 04:05:13 |	Precision for Will_Tappen: 0.5238095238095238
+18/12/2019 04:05:13 |	Recall for Will_Tappen: 0.825
+18/12/2019 04:05:13 |	F1 score for Will_Tappen: 0.6407766990291262
+18/12/2019 04:05:13 |	
+18/12/2019 04:05:18 |	Validation accuracy for Brynn_Szczesniak: 0.8952982150631258
+18/12/2019 04:05:18 |	Precision for Brynn_Szczesniak: 0.3310810810810811
+18/12/2019 04:05:18 |	Recall for Brynn_Szczesniak: 0.1136890951276102
+18/12/2019 04:05:18 |	F1 score for Brynn_Szczesniak: 0.1692573402417962
+18/12/2019 04:05:18 |	
+18/12/2019 04:05:19 |	Validation accuracy for Megan_Backus: 0.9862864606007836
+18/12/2019 04:05:19 |	Precision for Megan_Backus: 1.0
+18/12/2019 04:05:19 |	Recall for Megan_Backus: 0.88
+18/12/2019 04:05:19 |	F1 score for Megan_Backus: 0.9361702127659575
+18/12/2019 04:05:19 |	
+18/12/2019 04:05:21 |	Validation accuracy for Nhat: 0.9727905964301262
+18/12/2019 04:05:21 |	Precision for Nhat: 0.7944444444444444
+18/12/2019 04:05:21 |	Recall for Nhat: 0.9683972911963883
+18/12/2019 04:05:21 |	F1 score for Nhat: 0.8728382502543236
+18/12/2019 04:05:21 |	
+18/12/2019 04:05:24 |	Validation accuracy for Will_Tappen: 0.9547235524597301
+18/12/2019 04:05:24 |	Precision for Will_Tappen: 0.48857142857142855
+18/12/2019 04:05:24 |	Recall for Will_Tappen: 0.855
+18/12/2019 04:05:24 |	F1 score for Will_Tappen: 0.6218181818181818
+18/12/2019 04:05:24 |	
+18/12/2019 04:05:30 |	Validation accuracy for Brynn_Szczesniak: 0.9969348659003832
+18/12/2019 04:05:30 |	Precision for Brynn_Szczesniak: 1.0
+18/12/2019 04:05:30 |	Recall for Brynn_Szczesniak: 0.9683168316831683
+18/12/2019 04:05:30 |	F1 score for Brynn_Szczesniak: 0.9839034205231388
+18/12/2019 04:05:30 |	
+18/12/2019 04:05:32 |	Validation accuracy for Megan_Backus: 1.0
+18/12/2019 04:05:32 |	Precision for Megan_Backus: 1.0
+18/12/2019 04:05:32 |	Recall for Megan_Backus: 1.0
+18/12/2019 04:05:32 |	F1 score for Megan_Backus: 1.0
+18/12/2019 04:05:32 |	
+18/12/2019 04:05:35 |	Validation accuracy for Nhat: 0.9990421455938697
+18/12/2019 04:05:35 |	Precision for Nhat: 1.0
+18/12/2019 04:05:35 |	Recall for Nhat: 0.9887133182844243
+18/12/2019 04:05:35 |	F1 score for Nhat: 0.9943246311010215
+18/12/2019 04:05:35 |	
+18/12/2019 04:05:37 |	Validation accuracy for Will_Tappen: 0.9773946360153257
+18/12/2019 04:05:37 |	Precision for Will_Tappen: 0.8333333333333334
+18/12/2019 04:05:37 |	Recall for Will_Tappen: 0.7482993197278912
+18/12/2019 04:05:37 |	F1 score for Will_Tappen: 0.7885304659498209
+18/12/2019 04:05:37 |	
+18/12/2019 04:05:43 |	Validation accuracy for Brynn_Szczesniak: 0.9919540229885058
+18/12/2019 04:05:43 |	Precision for Brynn_Szczesniak: 0.9548133595284872
+18/12/2019 04:05:43 |	Recall for Brynn_Szczesniak: 0.9623762376237623
+18/12/2019 04:05:43 |	F1 score for Brynn_Szczesniak: 0.9585798816568047
+18/12/2019 04:05:43 |	
+18/12/2019 04:05:45 |	Validation accuracy for Megan_Backus: 1.0
+18/12/2019 04:05:45 |	Precision for Megan_Backus: 1.0
+18/12/2019 04:05:45 |	Recall for Megan_Backus: 1.0
+18/12/2019 04:05:45 |	F1 score for Megan_Backus: 1.0
+18/12/2019 04:05:45 |	
+18/12/2019 04:05:48 |	Validation accuracy for Nhat: 0.9990421455938697
+18/12/2019 04:05:48 |	Precision for Nhat: 1.0
+18/12/2019 04:05:48 |	Recall for Nhat: 0.9887133182844243
+18/12/2019 04:05:48 |	F1 score for Nhat: 0.9943246311010215
+18/12/2019 04:05:48 |	
+18/12/2019 04:05:50 |	Validation accuracy for Will_Tappen: 0.9708812260536398
+18/12/2019 04:05:50 |	Precision for Will_Tappen: 0.8622448979591837
+18/12/2019 04:05:50 |	Recall for Will_Tappen: 0.5748299319727891
+18/12/2019 04:05:50 |	F1 score for Will_Tappen: 0.6897959183673469
+18/12/2019 04:05:50 |	
+18/12/2019 04:05:55 |	Validation accuracy for Brynn_Szczesniak: 0.9837164750957854
+18/12/2019 04:05:55 |	Precision for Brynn_Szczesniak: 0.8860294117647058
+18/12/2019 04:05:55 |	Recall for Brynn_Szczesniak: 0.9544554455445544
+18/12/2019 04:05:55 |	F1 score for Brynn_Szczesniak: 0.9189704480457578
+18/12/2019 04:05:55 |	
+18/12/2019 04:05:57 |	Validation accuracy for Megan_Backus: 1.0
+18/12/2019 04:05:57 |	Precision for Megan_Backus: 1.0
+18/12/2019 04:05:57 |	Recall for Megan_Backus: 1.0
+18/12/2019 04:05:57 |	F1 score for Megan_Backus: 1.0
+18/12/2019 04:05:57 |	
+18/12/2019 04:06:00 |	Validation accuracy for Nhat: 0.9925287356321839
+18/12/2019 04:06:00 |	Precision for Nhat: 0.9297872340425531
+18/12/2019 04:06:00 |	Recall for Nhat: 0.9864559819413092
+18/12/2019 04:06:00 |	F1 score for Nhat: 0.9572836801752463
+18/12/2019 04:06:00 |	
+18/12/2019 04:06:02 |	Validation accuracy for Will_Tappen: 0.9653256704980843
+18/12/2019 04:06:02 |	Precision for Will_Tappen: 0.8509316770186336
+18/12/2019 04:06:02 |	Recall for Will_Tappen: 0.46598639455782315
+18/12/2019 04:06:02 |	F1 score for Will_Tappen: 0.6021978021978023
+18/12/2019 04:06:02 |	
+18/12/2019 04:06:07 |	Validation accuracy for Brynn_Szczesniak: 0.9806513409961686
+18/12/2019 04:06:07 |	Precision for Brynn_Szczesniak: 0.8713235294117647
+18/12/2019 04:06:07 |	Recall for Brynn_Szczesniak: 0.9386138613861386
+18/12/2019 04:06:07 |	F1 score for Brynn_Szczesniak: 0.90371782650143
+18/12/2019 04:06:07 |	
+18/12/2019 04:06:09 |	Validation accuracy for Megan_Backus: 1.0
+18/12/2019 04:06:09 |	Precision for Megan_Backus: 1.0
+18/12/2019 04:06:09 |	Recall for Megan_Backus: 1.0
+18/12/2019 04:06:09 |	F1 score for Megan_Backus: 1.0
+18/12/2019 04:06:09 |	
+18/12/2019 04:06:11 |	Validation accuracy for Nhat: 0.9756704980842912
+18/12/2019 04:06:11 |	Precision for Nhat: 0.7915129151291513
+18/12/2019 04:06:11 |	Recall for Nhat: 0.9683972911963883
+18/12/2019 04:06:11 |	F1 score for Nhat: 0.8710659898477157
+18/12/2019 04:06:11 |	
+18/12/2019 04:06:12 |	Validation accuracy for Will_Tappen: 0.9599616858237547
+18/12/2019 04:06:12 |	Precision for Will_Tappen: 0.7202072538860104
+18/12/2019 04:06:12 |	Recall for Will_Tappen: 0.47278911564625853
+18/12/2019 04:06:12 |	F1 score for Will_Tappen: 0.5708418891170431
+18/12/2019 04:06:12 |	
+18/12/2019 04:06:16 |	Validation accuracy for Brynn_Szczesniak: 0.8770134958641707
+18/12/2019 04:06:16 |	Precision for Brynn_Szczesniak: 0.3159340659340659
+18/12/2019 04:06:16 |	Recall for Brynn_Szczesniak: 0.2668213457076566
+18/12/2019 04:06:16 |	F1 score for Brynn_Szczesniak: 0.2893081761006289
+18/12/2019 04:06:16 |	
+18/12/2019 04:06:17 |	Validation accuracy for Megan_Backus: 0.9251197213757074
+18/12/2019 04:06:17 |	Precision for Megan_Backus: 0.6041426927502876
+18/12/2019 04:06:17 |	Recall for Megan_Backus: 1.0
+18/12/2019 04:06:17 |	F1 score for Megan_Backus: 0.7532281205164992
+18/12/2019 04:06:17 |	
+18/12/2019 04:06:18 |	Validation accuracy for Nhat: 0.9220722681758816
+18/12/2019 04:06:18 |	Precision for Nhat: 0.5537294563843237
+18/12/2019 04:06:18 |	Recall for Nhat: 0.9887133182844243
+18/12/2019 04:06:18 |	F1 score for Nhat: 0.7098865478119935
+18/12/2019 04:06:18 |	
+18/12/2019 04:06:19 |	Validation accuracy for Will_Tappen: 0.9201131911188507
+18/12/2019 04:06:19 |	Precision for Will_Tappen: 0.35168738898756663
+18/12/2019 04:06:19 |	Recall for Will_Tappen: 0.99
+18/12/2019 04:06:19 |	F1 score for Will_Tappen: 0.5190039318479686
+18/12/2019 04:06:19 |	
+18/12/2019 04:06:22 |	Validation accuracy for Brynn_Szczesniak: 0.8613408794079234
+18/12/2019 04:06:22 |	Precision for Brynn_Szczesniak: 0.297244094488189
+18/12/2019 04:06:22 |	Recall for Brynn_Szczesniak: 0.3503480278422274
+18/12/2019 04:06:22 |	F1 score for Brynn_Szczesniak: 0.321618743343983
+18/12/2019 04:06:22 |	
+18/12/2019 04:06:23 |	Validation accuracy for Megan_Backus: 0.9240313452329125
+18/12/2019 04:06:23 |	Precision for Megan_Backus: 0.6009174311926605
+18/12/2019 04:06:23 |	Recall for Megan_Backus: 0.9980952380952381
+18/12/2019 04:06:23 |	F1 score for Megan_Backus: 0.7501789549033644
+18/12/2019 04:06:23 |	
+18/12/2019 04:06:25 |	Validation accuracy for Nhat: 0.9732259468872443
+18/12/2019 04:06:25 |	Precision for Nhat: 0.7877697841726619
+18/12/2019 04:06:25 |	Recall for Nhat: 0.9887133182844243
+18/12/2019 04:06:25 |	F1 score for Nhat: 0.8768768768768769
+18/12/2019 04:06:25 |	
+18/12/2019 04:06:25 |	Validation accuracy for Will_Tappen: 0.9377448846321289
+18/12/2019 04:06:25 |	Precision for Will_Tappen: 0.4081196581196581
+18/12/2019 04:06:25 |	Recall for Will_Tappen: 0.955
+18/12/2019 04:06:26 |	F1 score for Will_Tappen: 0.5718562874251497
+18/12/2019 04:06:26 |	
+18/12/2019 04:06:29 |	Validation accuracy for Brynn_Szczesniak: 0.8665650848933392
+18/12/2019 04:06:29 |	Precision for Brynn_Szczesniak: 0.3194444444444444
+18/12/2019 04:06:29 |	Recall for Brynn_Szczesniak: 0.37354988399071926
+18/12/2019 04:06:29 |	F1 score for Brynn_Szczesniak: 0.34438502673796795
+18/12/2019 04:06:29 |	
+18/12/2019 04:06:30 |	Validation accuracy for Megan_Backus: 0.9179364388332608
+18/12/2019 04:06:30 |	Precision for Megan_Backus: 0.582039911308204
+18/12/2019 04:06:30 |	Recall for Megan_Backus: 1.0
+18/12/2019 04:06:30 |	F1 score for Megan_Backus: 0.7358093903293623
+18/12/2019 04:06:30 |	
+18/12/2019 04:06:31 |	Validation accuracy for Nhat: 0.9597300827165869
+18/12/2019 04:06:31 |	Precision for Nhat: 0.7067307692307693
+18/12/2019 04:06:31 |	Recall for Nhat: 0.9954853273137697
+18/12/2019 04:06:31 |	F1 score for Nhat: 0.8266166822867854
+18/12/2019 04:06:31 |	
+18/12/2019 04:06:31 |	Validation accuracy for Will_Tappen: 0.9440574662603396
+18/12/2019 04:06:31 |	Precision for Will_Tappen: 0.4323040380047506
+18/12/2019 04:06:31 |	Recall for Will_Tappen: 0.91
+18/12/2019 04:06:31 |	F1 score for Will_Tappen: 0.5861513687600644
+18/12/2019 04:06:31 |	
+18/12/2019 04:06:35 |	Validation accuracy for Brynn_Szczesniak: 0.8746190683500218
+18/12/2019 04:06:35 |	Precision for Brynn_Szczesniak: 0.34475374732334046
+18/12/2019 04:06:35 |	Recall for Brynn_Szczesniak: 0.37354988399071926
+18/12/2019 04:06:35 |	F1 score for Brynn_Szczesniak: 0.3585746102449888
+18/12/2019 04:06:35 |	
+18/12/2019 04:06:37 |	Validation accuracy for Megan_Backus: 0.9179364388332608
+18/12/2019 04:06:37 |	Precision for Megan_Backus: 0.582039911308204
+18/12/2019 04:06:37 |	Recall for Megan_Backus: 1.0
+18/12/2019 04:06:37 |	F1 score for Megan_Backus: 0.7358093903293623
+18/12/2019 04:06:37 |	
+18/12/2019 04:06:39 |	Validation accuracy for Nhat: 0.957771005659556
+18/12/2019 04:06:39 |	Precision for Nhat: 0.6973058637083994
+18/12/2019 04:06:39 |	Recall for Nhat: 0.9932279909706546
+18/12/2019 04:06:39 |	F1 score for Nhat: 0.819366852886406
+18/12/2019 04:06:39 |	
+18/12/2019 04:06:40 |	Validation accuracy for Will_Tappen: 0.933391380060949
+18/12/2019 04:06:40 |	Precision for Will_Tappen: 0.38009049773755654
+18/12/2019 04:06:40 |	Recall for Will_Tappen: 0.84
+18/12/2019 04:06:40 |	F1 score for Will_Tappen: 0.5233644859813085
+18/12/2019 04:06:40 |	
+18/12/2019 04:06:46 |	Validation accuracy for Brynn_Szczesniak: 0.9693486590038314
+18/12/2019 04:06:46 |	Precision for Brynn_Szczesniak: 0.7674418604651163
+18/12/2019 04:06:46 |	Recall for Brynn_Szczesniak: 0.9801980198019802
+18/12/2019 04:06:46 |	F1 score for Brynn_Szczesniak: 0.8608695652173912
+18/12/2019 04:06:46 |	
+18/12/2019 04:06:48 |	Validation accuracy for Megan_Backus: 0.9340996168582375
+18/12/2019 04:06:48 |	Precision for Megan_Backus: 0.5894988066825776
+18/12/2019 04:06:48 |	Recall for Megan_Backus: 1.0
+18/12/2019 04:06:48 |	F1 score for Megan_Backus: 0.7417417417417418
+18/12/2019 04:06:48 |	
+18/12/2019 04:06:50 |	Validation accuracy for Nhat: 0.9044061302681993
+18/12/2019 04:06:50 |	Precision for Nhat: 0.4699570815450644
+18/12/2019 04:06:50 |	Recall for Nhat: 0.9887133182844243
+18/12/2019 04:06:50 |	F1 score for Nhat: 0.637090909090909
+18/12/2019 04:06:50 |	
+18/12/2019 04:06:52 |	Validation accuracy for Will_Tappen: 0.9789272030651341
+18/12/2019 04:06:52 |	Precision for Will_Tappen: 0.772189349112426
+18/12/2019 04:06:52 |	Recall for Will_Tappen: 0.8877551020408163
+18/12/2019 04:06:52 |	F1 score for Will_Tappen: 0.8259493670886077
+18/12/2019 04:06:52 |	
+18/12/2019 04:06:56 |	Validation accuracy for Brynn_Szczesniak: 0.9524904214559387
+18/12/2019 04:06:56 |	Precision for Brynn_Szczesniak: 0.6792189679218968
+18/12/2019 04:06:56 |	Recall for Brynn_Szczesniak: 0.9643564356435643
+18/12/2019 04:06:56 |	F1 score for Brynn_Szczesniak: 0.7970540098199672
+18/12/2019 04:06:56 |	
+18/12/2019 04:06:57 |	Validation accuracy for Megan_Backus: 0.9333333333333333
+18/12/2019 04:06:57 |	Precision for Megan_Backus: 0.5866983372921615
+18/12/2019 04:06:57 |	Recall for Megan_Backus: 1.0
+18/12/2019 04:06:57 |	F1 score for Megan_Backus: 0.7395209580838323
+18/12/2019 04:06:57 |	
+18/12/2019 04:06:58 |	Validation accuracy for Nhat: 0.8915708812260537
+18/12/2019 04:06:58 |	Precision for Nhat: 0.43843843843843844
+18/12/2019 04:06:58 |	Recall for Nhat: 0.9887133182844243
+18/12/2019 04:06:58 |	F1 score for Nhat: 0.6074895977808599
+18/12/2019 04:06:58 |	
+18/12/2019 04:07:00 |	Validation accuracy for Will_Tappen: 0.9762452107279693
+18/12/2019 04:07:00 |	Precision for Will_Tappen: 0.8035714285714286
+18/12/2019 04:07:00 |	Recall for Will_Tappen: 0.7653061224489796
+18/12/2019 04:07:00 |	F1 score for Will_Tappen: 0.7839721254355401
+18/12/2019 04:07:00 |	
+18/12/2019 04:07:03 |	Validation accuracy for Brynn_Szczesniak: 0.9501915708812261
+18/12/2019 04:07:03 |	Precision for Brynn_Szczesniak: 0.6767676767676768
+18/12/2019 04:07:03 |	Recall for Brynn_Szczesniak: 0.9287128712871288
+18/12/2019 04:07:03 |	F1 score for Brynn_Szczesniak: 0.7829716193656093
+18/12/2019 04:07:03 |	
+18/12/2019 04:07:04 |	Validation accuracy for Megan_Backus: 0.9277777777777778
+18/12/2019 04:07:04 |	Precision for Megan_Backus: 0.5671641791044776
+18/12/2019 04:07:04 |	Recall for Megan_Backus: 1.0
+18/12/2019 04:07:04 |	F1 score for Megan_Backus: 0.7238095238095238
+18/12/2019 04:07:04 |	
+18/12/2019 04:07:05 |	Validation accuracy for Nhat: 0.9298850574712644
+18/12/2019 04:07:05 |	Precision for Nhat: 0.5478260869565217
+18/12/2019 04:07:05 |	Recall for Nhat: 0.9954853273137697
+18/12/2019 04:07:05 |	F1 score for Nhat: 0.706730769230769
+18/12/2019 04:07:05 |	
+18/12/2019 04:07:07 |	Validation accuracy for Will_Tappen: 0.9745210727969349
+18/12/2019 04:07:07 |	Precision for Will_Tappen: 0.8259109311740891
+18/12/2019 04:07:07 |	Recall for Will_Tappen: 0.6938775510204082
+18/12/2019 04:07:07 |	F1 score for Will_Tappen: 0.7541589648798521
+18/12/2019 04:07:07 |	
+18/12/2019 04:07:10 |	Validation accuracy for Brynn_Szczesniak: 0.9452107279693487
+18/12/2019 04:07:10 |	Precision for Brynn_Szczesniak: 0.6656580937972768
+18/12/2019 04:07:10 |	Recall for Brynn_Szczesniak: 0.8712871287128713
+18/12/2019 04:07:10 |	F1 score for Brynn_Szczesniak: 0.7547169811320754
+18/12/2019 04:07:10 |	
+18/12/2019 04:07:11 |	Validation accuracy for Megan_Backus: 0.9277777777777778
+18/12/2019 04:07:11 |	Precision for Megan_Backus: 0.5671641791044776
+18/12/2019 04:07:11 |	Recall for Megan_Backus: 1.0
+18/12/2019 04:07:11 |	F1 score for Megan_Backus: 0.7238095238095238
+18/12/2019 04:07:11 |	
+18/12/2019 04:07:13 |	Validation accuracy for Nhat: 0.95727969348659
+18/12/2019 04:07:13 |	Precision for Nhat: 0.6666666666666666
+18/12/2019 04:07:13 |	Recall for Nhat: 0.9932279909706546
+18/12/2019 04:07:13 |	F1 score for Nhat: 0.7978241160471441
+18/12/2019 04:07:13 |	
+18/12/2019 04:07:14 |	Validation accuracy for Will_Tappen: 0.9710727969348659
+18/12/2019 04:07:14 |	Precision for Will_Tappen: 0.7677902621722846
+18/12/2019 04:07:14 |	Recall for Will_Tappen: 0.6972789115646258
+18/12/2019 04:07:14 |	F1 score for Will_Tappen: 0.7308377896613191
+18/12/2019 04:07:14 |	

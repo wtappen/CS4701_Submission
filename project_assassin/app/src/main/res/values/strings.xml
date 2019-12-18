@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assassins</string>
+    <string name="camera_button_name">Photo</string>
+    <string name="video_button_name">Video</string>
+    <string name="photo_viewer_name">photoViewer</string>
+    <string name="video_viewer_name">videoViewer</string>
+    <string name="login_activity_name">Login Activity</string>
+    <string name="login_hint">enter username here</string>
+</resources>
